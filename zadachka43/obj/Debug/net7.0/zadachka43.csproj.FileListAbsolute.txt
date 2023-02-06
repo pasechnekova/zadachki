@@ -1,0 +1,15 @@
+C:\Users\antif_000\Desktop\Zadachi\zadachka43\bin\Debug\net7.0\zadachka43.exe
+C:\Users\antif_000\Desktop\Zadachi\zadachka43\bin\Debug\net7.0\zadachka43.deps.json
+C:\Users\antif_000\Desktop\Zadachi\zadachka43\bin\Debug\net7.0\zadachka43.runtimeconfig.json
+C:\Users\antif_000\Desktop\Zadachi\zadachka43\bin\Debug\net7.0\zadachka43.dll
+C:\Users\antif_000\Desktop\Zadachi\zadachka43\bin\Debug\net7.0\zadachka43.pdb
+C:\Users\antif_000\Desktop\Zadachi\zadachka43\obj\Debug\net7.0\zadachka43.csproj.AssemblyReference.cache
+C:\Users\antif_000\Desktop\Zadachi\zadachka43\obj\Debug\net7.0\zadachka43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antif_000\Desktop\Zadachi\zadachka43\obj\Debug\net7.0\zadachka43.AssemblyInfoInputs.cache
+C:\Users\antif_000\Desktop\Zadachi\zadachka43\obj\Debug\net7.0\zadachka43.AssemblyInfo.cs
+C:\Users\antif_000\Desktop\Zadachi\zadachka43\obj\Debug\net7.0\zadachka43.csproj.CoreCompileInputs.cache
+C:\Users\antif_000\Desktop\Zadachi\zadachka43\obj\Debug\net7.0\zadachka43.dll
+C:\Users\antif_000\Desktop\Zadachi\zadachka43\obj\Debug\net7.0\refint\zadachka43.dll
+C:\Users\antif_000\Desktop\Zadachi\zadachka43\obj\Debug\net7.0\zadachka43.pdb
+C:\Users\antif_000\Desktop\Zadachi\zadachka43\obj\Debug\net7.0\zadachka43.genruntimeconfig.cache
+C:\Users\antif_000\Desktop\Zadachi\zadachka43\obj\Debug\net7.0\ref\zadachka43.dll
