@@ -59,7 +59,7 @@ void CreateArray(int[,] array)
     {
       array[i, j] = new Random().Next(range);
     }
-  }.
+  }
 }
 
 void WriteArray (int[,] array)
